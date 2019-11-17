@@ -1,0 +1,15 @@
+{
+  "name": "unlimited-guns",
+  "version": "1.0.0",
+  "description": "Data Natives - Unlimited Flexibility and how to avoid handing your costumers a loaded gun",
+  "main": "deck.mdx",
+  "author": "Jakob Shimony",
+  "license": "MIT",
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx"
+  },
+  "devDependencies": {
+    "mdx-deck": "^3.0.13"
+  }
+}
