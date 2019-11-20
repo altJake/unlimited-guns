@@ -13,16 +13,20 @@ const Provider = props => (
         color: future.colors.text,
         fontFamily: future.fonts.body,
         display: 'flex',
-        justifyContent: 'space-around',
-      }}>
-        <>
-        {[
-          <span>DN19: When Product Meets Data</span>,
-          <span>|</span>,
-          <span>Unlimited Flexibility and how to avoid handing your costumers a loaded gun</span>,
-          <span>|</span>,
-          <span>20.11.2019</span>
-        ]}
+        justifyContent: 'space-around'
+      }}
+    >
+      <>
+        <span>DN19: When Product Meets Data</span>
+        <span>|</span>
+        <span>
+          Unlimited Flexibility and how to avoid handing your costumers a loaded
+          gun
+        </span>
+        <span>|</span>
+        <span>Jakob Shimony</span>
+        <span>|</span>
+        <span>20.11.2019</span>
       </>
     </div>
   </div>
