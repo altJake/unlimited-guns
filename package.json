@@ -7,9 +7,12 @@
   "license": "MIT",
   "scripts": {
     "start": "mdx-deck deck.mdx",
-    "build": "mdx-deck build deck.mdx"
+    "build": "gatsby clean && gatsby build --prefix-paths"
   },
   "devDependencies": {
-    "mdx-deck": "^3.0.13"
+    "mdx-deck": "^3.0.13",
+    "gatsby": "^2.13.24",
+    "gatsby-plugin-compile-es6-packages": "^2.0.0",
+    "gatsby-theme-mdx-deck": "^3.0.13"
   }
 }
