@@ -20,8 +20,7 @@ const Provider = props => (
         <span>DN19: When Product Meets Data</span>
         <span>|</span>
         <span>
-          Unlimited Flexibility and how to avoid handing your costumers a loaded
-          gun
+          Unlimited Flexibility and how to avoid handing your customers a loaded gun.
         </span>
         <span>|</span>
         <span>Jakob Shimony</span>
